@@ -1,6 +1,6 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
+    "name": "My Project",
+    "description": "A fundamental theorem of calculus ",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
