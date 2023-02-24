@@ -1,7 +1,7 @@
 {
     "name": "My Project",
     "description": "A fundamental theorem of calculus ",
-    "keywords": ["V2Ray"],
+    "keywords": ["myProj"],
     "env": {
         "ID": {
             "description": "UUID",
